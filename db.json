@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": 1
+    },
+    {
+      "name": "Database Tienari",
+      "number": "040-123456",
+      "id": 2
+    },
+    {
+      "name": "Arto Järvinen",
+      "number": "040-123456",
+      "id": 3
+    },
+    {
+      "name": "Lea Kutvonen",
+      "number": "040-123456",
+      "id": 4
+    },
+    {
+      "name": "Mikko Nimimies",
+      "number": "044-12341234",
+      "id": 5
+    },
+    {
+      "name": "Esa Esimerkki",
+      "number": "050-987654",
+      "id": 6
+    }
+  ]
+}
